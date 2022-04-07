@@ -2,3 +2,26 @@ a{
     font-size: xx-large;
     background-color: aqua;
 }
+
+h2{
+    color: darkred;
+}
+
+div>h2{
+    background-color: deeppink;
+}
+
+table{
+    border: solid;
+    background-color:gold
+}
+
+thead{
+    color: aqua;
+    background-color:firebrick
+}
+
+tbody{
+    color: cadetblue;
+    background-color: darkblue;
+}
